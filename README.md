@@ -12,7 +12,6 @@ Welcome to the Image Classifier for Dogs and Cats! This repository houses a mach
 - Easy to Use: Designed for simplicity, making it accessible even for users without a technical background.
 ---
 This project demonstrates the power of deep learning in computer vision tasks and showcases how Streamlit can be used to deploy interactive ML applications.
-
 ---
 
 ![Screenshot 2025-06-24 200716](https://github.com/user-attachments/assets/235cdfbb-3926-487f-ab47-e26f4d7c4cef)
